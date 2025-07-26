@@ -5,3 +5,4 @@ Todo:
 - Update Unity version
   1. Add diagonal orientations
   2. Allow operator to disable bounds checks for higher performance
+  3. Re-incorporate the C++ into the program
